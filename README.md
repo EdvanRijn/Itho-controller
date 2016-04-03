@@ -15,7 +15,8 @@ for now i only have the schematics and the layout of the pcb i will use.
 Since i am not a HF designer i used the demo schematics of Texas Instrument for the HF transmitter part
 and a bord of Adafruit as an example for a microphone input.
 
-The board is in production now and i will receive the finished pcb's on 6 or 7 april 2016 
+The board is in production now and i will receive the finished pcb's on 6 or 7 april 2016 .
+
 When i have the boards i start to assemble them and start writing the firmware
 
 I will start posting updates as soon as i have parts working :)
