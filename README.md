@@ -11,4 +11,11 @@ see his blog http://www.progz.nl/blog/index.php/2014/12/reverse-engineering-remo
 Other parts of the firmware will be written by myself or when i find usefull libraries on the net i will
 use these or parts of them
 
-for now i only have the schematics of the pcb i will use.
+for now i only have the schematics and the layout of the pcb i will use.
+Since i am not a HF designer i used the demo schematics of Texas Instrument for the HF transmitter part
+and a bord of Adafruit as an example for a microphone input.
+
+The board is in production now and i will receive the finished pcb's on 6 or 7 april 2016 
+When i have the boards i start to assemble them and start writing the firmware
+
+I will start posting updates as soon as i have parts working :)
